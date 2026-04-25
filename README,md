@@ -1,0 +1,38 @@
+# AI Chatbot (Python)
+
+This is a simple chatbot built using Python. It was created to practice basic programming concepts and understand how simple chat systems work.
+
+## Features
+- Text-based chatbot
+- Responds to user input using keywords
+- Runs in the terminal
+- Uses Python basics (loops, conditions, dictionary)
+
+## How it works
+The chatbot reads what the user types and checks for keywords like "hello" or "name".  
+If it finds a match, it gives a predefined response.
+
+## How to run
+1. Install Python  
+2. Download chatbot.py  
+3. Run this command:
+
+python chatbot.py
+
+4. Type messages and interact  
+5. Type "exit" to stop
+
+## Example
+
+You: hello  
+Bot: Hello! How can I help you?  
+
+You: name  
+Bot: I am your AI chatbot.
+
+## Limitations
+- Not real AI
+- Only responds to simple keywords
+
+## Author
+Mohammad Ghayada
