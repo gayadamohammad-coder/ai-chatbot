@@ -1,44 +1,19 @@
-# AI Projects (Python)
+# AI Chatbot (Python)
 
-This repository contains two beginner-level Python projects focused on chatbot logic and computer vision.
+This project is a simple rule-based chatbot built using Python.
 
 ---
 
-## 🤖 Project 1: AI Chatbot
-
-A simple rule-based chatbot built using Python.
-
-### Features
+## 🤖 Features
 - Text-based interaction
 - Keyword-based responses
 - Uses loops and dictionaries
+- Handles basic user input and replies
 
-### How to run
+---
 
+## 🚀 How to run
+
+```bash
 python chatbot.py
 
----
-
-## 🎥 Project 2: Face Detection
-
-A real-time face detection system using OpenCV.
-
-### Features
-- Uses webcam to capture video
-- Detects faces in real-time
-- Draws bounding boxes around faces
-
-### How to run
-
-python face_detection.py
-
----
-
-## 🧠 Technologies Used
-- Python
-- OpenCV
-
----
-
-## 👨‍💻 Author
-Mohammad Ghayada
